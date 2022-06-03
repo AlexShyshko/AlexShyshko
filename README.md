@@ -1,4 +1,20 @@
-### Hi there 👋
+## Alex Shyshko
+### About me:
+- Front-end developer
+### Technologies:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Webpack
+- React
+- Angular
+- Angular material
+### Actual CV:
+- https://alexshyshko-cv.netlify.app/
+### Contacts:
+- Phone: +375 29 124-91-22
+- E-mail: shish1988@mail.ru
 
 <!--
 **AlexShyshko/AlexShyshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
