@@ -1,6 +1,6 @@
 ## Alex Shyshko
 ### About me:
-- Front-end developer
+- Front-end, Angular, React developer
 - ServiceNow developer
 ### Technologies:
 - HTML5
@@ -17,6 +17,7 @@
 - https://alexshyshko-cv.netlify.app/
 ### Contacts:
 - Phone: +375 29 124-91-22
+- LinkedIn: https://www.linkedin.com/in/alex-shyshko-25491a199/
 - E-mail: kuroluboff@gmail.com
 
 <!--
